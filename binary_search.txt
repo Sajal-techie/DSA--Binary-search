@@ -1,0 +1,14 @@
+Binary search follows the divide and conquer approach in which the list is divided into two halves, and the item is compared with the middle element of the list. If the match is found then, the location of the middle element is returned. Otherwise, we search into either of the halves depending upon the result produced through the match.
+
+.The data structure must be sorted
+
+Time complexity
+
+Best case = O(1)
+Average case = O(log n)
+Worst case = O(log n)
+
+
+Space complexity O(1)
+
+
