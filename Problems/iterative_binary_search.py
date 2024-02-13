@@ -1,4 +1,4 @@
-
+#iterative method
 def binary_search(arr, l, u , key):
 
     while (l <= u):
