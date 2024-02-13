@@ -1,4 +1,4 @@
-
+# recursive method
 def binary_search(arr, l, u, key ):
     if l <= u:
         mid = (l + u) // 2
