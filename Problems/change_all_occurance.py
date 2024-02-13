@@ -1,3 +1,5 @@
+# find all occurance of given value and change it to the new value 
+
 arr = [6,6,10,10,10,10,22]
 low = 0
 high = len(arr) - 1
