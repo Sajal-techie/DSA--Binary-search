@@ -12,3 +12,5 @@ Worst case = O(log n)
 Space complexity O(1)
 
 
+adv
+Binary search is highly efficient for searching in sorted arrays or lists.
